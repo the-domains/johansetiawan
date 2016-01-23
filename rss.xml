@@ -4,8 +4,15 @@
         <description><![CDATA[johansetiawan]]></description>
         <link>https://thegrid.ai/johansetiawan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 16:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 17:15:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/johansetiawan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Simon Sinek posted this photo on 2016-01-21. 2213 likes. 17 comments. 1093 shares.</p>]]></description>
+            <link>https://www.facebook.com/simonsinek/photos/a.166396636498.148330.166356006498/10153870820836499/?type=3</link>
+            <guid isPermaLink="false">8af0554c-e814-4bb8-b10d-114d54aea159</guid>
+            <pubDate>Sat, 23 Jan 2016 17:15:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45527a44-92d0-45c7-a297-dd64c723f531.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/johansetiawan/c37ea1d2-c11c-4fca-89ec-d5ea11f22e16/index.html</link>
             <guid isPermaLink="false">c37ea1d2-c11c-4fca-89ec-d5ea11f22e16</guid>
             <pubDate>Sat, 23 Jan 2016 11:38:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Scrum pictures</p>]]></description>
-            <link>https://thegrid.ai/johansetiawan/bb01e776-1e31-4d2f-a918-9a94decdfce1/index.html</link>
-            <guid isPermaLink="false">bb01e776-1e31-4d2f-a918-9a94decdfce1</guid>
-            <pubDate>Sat, 23 Jan 2016 11:38:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
