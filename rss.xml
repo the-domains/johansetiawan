@@ -4,8 +4,15 @@
         <description><![CDATA[johansetiawan]]></description>
         <link>https://thegrid.ai/johansetiawan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 15:55:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 16:08:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/johansetiawan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45527a44-92d0-45c7-a297-dd64c723f531.jpg">]]></description>
+            <link>https://thegrid.ai/johansetiawan/458600ab-a5bd-4248-8884-b42847ebad7d/index.html</link>
+            <guid isPermaLink="false">458600ab-a5bd-4248-8884-b42847ebad7d</guid>
+            <pubDate>Sat, 23 Jan 2016 16:08:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sir Richard Branson]]></title>
             <description><![CDATA[<article><h1>Sir Richard Branson</h1><p>Sir Richard Branson adalah pemilik dari Virgin Air yang terkenal suka sekali memberi kesempatan kepada anak buahnya / managernya / direkturnya dengan ide yang aneh-aneh. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2576240cf99231b9a3a4e237d09a17233cdb96d4.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/johansetiawan/bb01e776-1e31-4d2f-a918-9a94decdfce1/index.html</link>
             <guid isPermaLink="false">bb01e776-1e31-4d2f-a918-9a94decdfce1</guid>
             <pubDate>Sat, 23 Jan 2016 11:38:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/43ba9c0e-5c5b-4a8a-a8ca-c1bac88ee0f9.JPG">]]></description>
-            <link>https://thegrid.ai/johansetiawan/69e25ddd-0708-43c4-9312-dfab45407696/index.html</link>
-            <guid isPermaLink="false">69e25ddd-0708-43c4-9312-dfab45407696</guid>
-            <pubDate>Sat, 23 Jan 2016 11:37:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
