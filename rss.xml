@@ -4,8 +4,15 @@
         <description><![CDATA[johansetiawan]]></description>
         <link>https://thegrid.ai/johansetiawan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 01:57:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 01:57:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/johansetiawan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-nrt1-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/12541028_184288828596878_2885043570691793485_n.jpg?oh=946c0c89a3137058bb4fd8ed5b730759&oe=572956DD">]]></description>
+            <link>https://thegrid.ai/johansetiawan/d6097138-b2dd-4015-88f3-a14c6a3355e7/index.html</link>
+            <guid isPermaLink="false">d6097138-b2dd-4015-88f3-a14c6a3355e7</guid>
+            <pubDate>Mon, 25 Jan 2016 01:56:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-nrt1-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/12573140_184288975263530_7536415667811815305_n.jpg?oh=c1c32e16c41d5722fd4d8d24adb25f95&oe=56FD3AE3">]]></description>
@@ -68,13 +75,6 @@
             <link>http://stuckincustoms.smugmug.com/Portfolio/i-3M5BR7V</link>
             <guid isPermaLink="false">40c1272d-3563-4c10-96ae-7554822a94f6</guid>
             <pubDate>Sat, 23 Jan 2016 17:23:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Got a New Camera? Take Control of Autofocus]]></title>
-            <description><![CDATA[<article><h1>Got a New Camera? Take Control of Autofocus</h1><p>If you're like me, you got a new camera and dove in, shooting like a madman and making all kinds of pictures of all kinds of things. After a few gazillion pictures, I was starting to figure out a few things about my camera and how it worked.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8417fa4d6420a51a3aedccf62bf5ea0519af3da0.jpg"></article>]]></description>
-            <link>http://photofocus.com/2016/01/23/got-a-new-camera-take-control-of-autofocus/</link>
-            <guid isPermaLink="false">d592a123-06a6-44bf-89d7-29fe80390f0b</guid>
-            <pubDate>Sat, 23 Jan 2016 17:16:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
